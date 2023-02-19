@@ -7,6 +7,8 @@ This web app is very similar to Amazon.
 - Search products
 - Apply filters for searching products
 - Add products to cart
+- Checkout order
+- Add additional discount on every nth order
 - Change the required number for products
 - Payment with PayPal
 - Create order
